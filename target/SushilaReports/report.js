@@ -7,7 +7,7 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 7806703360,
+  "duration": 10888477156,
   "status": "passed"
 });
 formatter.scenario({
@@ -53,39 +53,39 @@ formatter.match({
   "location": "StepDefs.adminIsOnTheHomepage()"
 });
 formatter.result({
-  "duration": 377837653,
+  "duration": 415540374,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefs.adminEnterUsername()"
 });
 formatter.result({
-  "duration": 113050027,
+  "duration": 103011708,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefs.adminEnterPassword()"
 });
 formatter.result({
-  "duration": 61954560,
+  "duration": 47519085,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefs.adminClickLoginButton()"
 });
 formatter.result({
-  "duration": 2546982400,
+  "duration": 2582577175,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefs.adminCanEnterEmploymentManagementSystem()"
 });
 formatter.result({
-  "duration": 21333,
+  "duration": 31574,
   "status": "passed"
 });
 formatter.after({
-  "duration": 16390400,
+  "duration": 17698537,
   "status": "passed"
 });
 });
